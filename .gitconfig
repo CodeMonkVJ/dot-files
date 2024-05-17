@@ -1,0 +1,13 @@
+[user]
+
+name = CodeMonk
+email = codemonk263@gmail.com
+
+[alias]
+
+co = checkout
+br = branch
+ci = commit
+po = push origin
+pu = push upstream
+rb = rebase -i HEAD
